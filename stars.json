@@ -1,15 +1,27 @@
 [
   {
+    "full_name": "cloudinary-training/cld-intro-nodejs",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 8
+  },
+  {
+    "full_name": "tigrisdata/tigris",
+    "stargazers_count": 369,
+    "open_issues_count": 7,
+    "forks_count": 13
+  },
+  {
     "full_name": "open-source-learners/communityink",
     "stargazers_count": 9,
-    "open_issues_count": 5,
+    "open_issues_count": 4,
     "forks_count": 7
   },
   {
     "full_name": "OpenFunction/OpenFunction",
-    "stargazers_count": 859,
-    "open_issues_count": 43,
-    "forks_count": 111
+    "stargazers_count": 863,
+    "open_issues_count": 42,
+    "forks_count": 112
   },
   {
     "full_name": "AdamsGeeky/In_my_campus",
@@ -26,14 +38,14 @@
   {
     "full_name": "Ingressive-for-Good/I4G-OPENSOURCE-FRONTEND-PROJECT-2022",
     "stargazers_count": 30,
-    "open_issues_count": 59,
+    "open_issues_count": 22,
     "forks_count": 123
   },
   {
     "full_name": "ismaelsadeeq/Data-Structures-Algorithms-Problems",
     "stargazers_count": 28,
     "open_issues_count": 11,
-    "forks_count": 24
+    "forks_count": 25
   },
   {
     "full_name": "Olanetsoft/web3terms",
@@ -43,45 +55,45 @@
   },
   {
     "full_name": "horizon-ui/horizon-ui-chakra-ts",
-    "stargazers_count": 200,
+    "stargazers_count": 204,
     "open_issues_count": 0,
     "forks_count": 40
   },
   {
     "full_name": "lnishan/awesome-competitive-programming",
-    "stargazers_count": 10394,
+    "stargazers_count": 10407,
     "open_issues_count": 21,
     "forks_count": 2441
   },
   {
     "full_name": "karanpratapsingh/system-design",
-    "stargazers_count": 13137,
+    "stargazers_count": 13201,
     "open_issues_count": 2,
-    "forks_count": 965
+    "forks_count": 975
   },
   {
     "full_name": "ManishK4514/DSA-Questions",
-    "stargazers_count": 4,
+    "stargazers_count": 5,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "ronreiter/interactive-tutorials",
-    "stargazers_count": 2936,
-    "open_issues_count": 77,
-    "forks_count": 2141
+    "stargazers_count": 2942,
+    "open_issues_count": 78,
+    "forks_count": 2144
   },
   {
     "full_name": "facebook/docusaurus",
-    "stargazers_count": 39279,
-    "open_issues_count": 252,
-    "forks_count": 5903
+    "stargazers_count": 39365,
+    "open_issues_count": 257,
+    "forks_count": 5927
   },
   {
     "full_name": "nhost/nhost",
-    "stargazers_count": 4652,
-    "open_issues_count": 118,
-    "forks_count": 248
+    "stargazers_count": 4844,
+    "open_issues_count": 116,
+    "forks_count": 252
   },
   {
     "full_name": "Franklin361/lottie-app",
@@ -117,7 +129,7 @@
     "full_name": "Juliest88/mysql-node-express",
     "stargazers_count": 95,
     "open_issues_count": 9,
-    "forks_count": 36
+    "forks_count": 35
   },
   {
     "full_name": "desirekaleba/sidehustle-restapi",
@@ -133,14 +145,14 @@
   },
   {
     "full_name": "trekhleb/javascript-algorithms",
-    "stargazers_count": 153766,
-    "open_issues_count": 277,
-    "forks_count": 25673
+    "stargazers_count": 154080,
+    "open_issues_count": 275,
+    "forks_count": 25715
   },
   {
     "full_name": "Timonwa/techroadmap",
-    "stargazers_count": 45,
-    "open_issues_count": 8,
+    "stargazers_count": 46,
+    "open_issues_count": 6,
     "forks_count": 32
   },
   {
@@ -151,7 +163,7 @@
   },
   {
     "full_name": "JuliaMendes/50-Projects-In-50-Days-",
-    "stargazers_count": 229,
+    "stargazers_count": 230,
     "open_issues_count": 1,
     "forks_count": 50
   },
@@ -166,17 +178,5 @@
     "stargazers_count": 191,
     "open_issues_count": 0,
     "forks_count": 65
-  },
-  {
-    "full_name": "riti2409/Operating_System",
-    "stargazers_count": 392,
-    "open_issues_count": 0,
-    "forks_count": 99
-  },
-  {
-    "full_name": "chaincodelabs/bitcoin-curriculum",
-    "stargazers_count": 455,
-    "open_issues_count": 1,
-    "forks_count": 100
   }
 ]
