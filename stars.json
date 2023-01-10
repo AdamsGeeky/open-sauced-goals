@@ -1,7 +1,19 @@
 [
   {
+    "full_name": "karpathy/minGPT",
+    "stargazers_count": 11389,
+    "open_issues_count": 47,
+    "forks_count": 1261
+  },
+  {
+    "full_name": "kaiwalyakoparkar/practical-devops",
+    "stargazers_count": 15,
+    "open_issues_count": 7,
+    "forks_count": 5
+  },
+  {
     "full_name": "AdamsGeeky/Blockchain",
-    "stargazers_count": 116,
+    "stargazers_count": 117,
     "open_issues_count": 1,
     "forks_count": 10
   },
@@ -13,38 +25,38 @@
   },
   {
     "full_name": "TheAlgorithms/Go",
-    "stargazers_count": 11766,
+    "stargazers_count": 11791,
     "open_issues_count": 10,
-    "forks_count": 2043
+    "forks_count": 2048
   },
   {
     "full_name": "harendra-shakya/smart-contract-attack-vectors",
-    "stargazers_count": 184,
+    "stargazers_count": 229,
     "open_issues_count": 0,
-    "forks_count": 29
+    "forks_count": 34
   },
   {
     "full_name": "TheAlgorithms/Python",
-    "stargazers_count": 150698,
-    "open_issues_count": 129,
-    "forks_count": 38654
+    "stargazers_count": 150792,
+    "open_issues_count": 130,
+    "forks_count": 38679
   },
   {
     "full_name": "alexeygrigorev/mlbookcamp-code",
-    "stargazers_count": 5434,
-    "open_issues_count": 83,
-    "forks_count": 1388
+    "stargazers_count": 5457,
+    "open_issues_count": 82,
+    "forks_count": 1394
   },
   {
     "full_name": "cloudinary-training/cld-intro-nodejs",
     "stargazers_count": 2,
     "open_issues_count": 0,
-    "forks_count": 13
+    "forks_count": 14
   },
   {
     "full_name": "tigrisdata/tigris",
     "stargazers_count": 404,
-    "open_issues_count": 7,
+    "open_issues_count": 6,
     "forks_count": 14
   },
   {
@@ -55,9 +67,9 @@
   },
   {
     "full_name": "OpenFunction/OpenFunction",
-    "stargazers_count": 969,
-    "open_issues_count": 50,
-    "forks_count": 125
+    "stargazers_count": 971,
+    "open_issues_count": 49,
+    "forks_count": 124
   },
   {
     "full_name": "AdamsGeeky/In_my_campus",
@@ -79,7 +91,7 @@
   },
   {
     "full_name": "ismaelsadeeq/Data-Structures-Algorithms-Problems",
-    "stargazers_count": 28,
+    "stargazers_count": 29,
     "open_issues_count": 9,
     "forks_count": 24
   },
@@ -87,25 +99,25 @@
     "full_name": "Olanetsoft/web3terms",
     "stargazers_count": 74,
     "open_issues_count": 3,
-    "forks_count": 42
+    "forks_count": 43
   },
   {
     "full_name": "horizon-ui/horizon-ui-chakra-ts",
-    "stargazers_count": 232,
+    "stargazers_count": 233,
     "open_issues_count": 0,
-    "forks_count": 53
+    "forks_count": 52
   },
   {
     "full_name": "lnishan/awesome-competitive-programming",
-    "stargazers_count": 10655,
+    "stargazers_count": 10662,
     "open_issues_count": 23,
     "forks_count": 2468
   },
   {
     "full_name": "karanpratapsingh/system-design",
-    "stargazers_count": 14119,
+    "stargazers_count": 14170,
     "open_issues_count": 2,
-    "forks_count": 1152
+    "forks_count": 1163
   },
   {
     "full_name": "ManishK4514/DSA-Questions",
@@ -115,21 +127,21 @@
   },
   {
     "full_name": "ronreiter/interactive-tutorials",
-    "stargazers_count": 3006,
-    "open_issues_count": 85,
-    "forks_count": 2175
+    "stargazers_count": 3010,
+    "open_issues_count": 86,
+    "forks_count": 2178
   },
   {
     "full_name": "facebook/docusaurus",
-    "stargazers_count": 40904,
-    "open_issues_count": 259,
-    "forks_count": 6221
+    "stargazers_count": 40999,
+    "open_issues_count": 265,
+    "forks_count": 6233
   },
   {
     "full_name": "nhost/nhost",
-    "stargazers_count": 5503,
-    "open_issues_count": 133,
-    "forks_count": 288
+    "stargazers_count": 5532,
+    "open_issues_count": 137,
+    "forks_count": 291
   },
   {
     "full_name": "Franklin361/lottie-app",
@@ -166,17 +178,5 @@
     "stargazers_count": 97,
     "open_issues_count": 12,
     "forks_count": 36
-  },
-  {
-    "full_name": "desirekaleba/sidehustle-restapi",
-    "stargazers_count": 7,
-    "open_issues_count": 0,
-    "forks_count": 7
-  },
-  {
-    "full_name": "armanvirus/Ramadan_Simplified",
-    "stargazers_count": 2,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]
