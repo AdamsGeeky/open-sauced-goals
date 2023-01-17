@@ -1,15 +1,21 @@
 [
   {
+    "full_name": "Santosl2/wpp-chatgpt",
+    "stargazers_count": 23,
+    "open_issues_count": 0,
+    "forks_count": 5
+  },
+  {
     "full_name": "karpathy/minGPT",
-    "stargazers_count": 11772,
+    "stargazers_count": 11994,
     "open_issues_count": 49,
-    "forks_count": 1287
+    "forks_count": 1307
   },
   {
     "full_name": "kaiwalyakoparkar/practical-devops",
-    "stargazers_count": 17,
-    "open_issues_count": 7,
-    "forks_count": 6
+    "stargazers_count": 20,
+    "open_issues_count": 8,
+    "forks_count": 8
   },
   {
     "full_name": "AdamsGeeky/Blockchain",
@@ -19,33 +25,33 @@
   },
   {
     "full_name": "didicodes/javascript-dev-bookmarks",
-    "stargazers_count": 380,
+    "stargazers_count": 383,
     "open_issues_count": 1,
     "forks_count": 63
   },
   {
     "full_name": "TheAlgorithms/Go",
-    "stargazers_count": 11809,
-    "open_issues_count": 10,
-    "forks_count": 2054
+    "stargazers_count": 11837,
+    "open_issues_count": 8,
+    "forks_count": 2061
   },
   {
     "full_name": "harendra-shakya/smart-contract-attack-vectors",
-    "stargazers_count": 237,
+    "stargazers_count": 243,
     "open_issues_count": 0,
-    "forks_count": 34
+    "forks_count": 36
   },
   {
     "full_name": "TheAlgorithms/Python",
-    "stargazers_count": 150911,
-    "open_issues_count": 130,
-    "forks_count": 38694
+    "stargazers_count": 151064,
+    "open_issues_count": 131,
+    "forks_count": 38715
   },
   {
     "full_name": "alexeygrigorev/mlbookcamp-code",
-    "stargazers_count": 5466,
+    "stargazers_count": 5485,
     "open_issues_count": 82,
-    "forks_count": 1399
+    "forks_count": 1405
   },
   {
     "full_name": "cloudinary-training/cld-intro-nodejs",
@@ -56,7 +62,7 @@
   {
     "full_name": "tigrisdata/tigris",
     "stargazers_count": 405,
-    "open_issues_count": 7,
+    "open_issues_count": 8,
     "forks_count": 14
   },
   {
@@ -67,7 +73,7 @@
   },
   {
     "full_name": "OpenFunction/OpenFunction",
-    "stargazers_count": 975,
+    "stargazers_count": 980,
     "open_issues_count": 49,
     "forks_count": 124
   },
@@ -92,32 +98,32 @@
   {
     "full_name": "ismaelsadeeq/Data-Structures-Algorithms-Problems",
     "stargazers_count": 29,
-    "open_issues_count": 9,
+    "open_issues_count": 8,
     "forks_count": 24
   },
   {
     "full_name": "Olanetsoft/web3terms",
-    "stargazers_count": 75,
-    "open_issues_count": 2,
+    "stargazers_count": 76,
+    "open_issues_count": 0,
     "forks_count": 44
   },
   {
     "full_name": "horizon-ui/horizon-ui-chakra-ts",
-    "stargazers_count": 233,
+    "stargazers_count": 236,
     "open_issues_count": 0,
-    "forks_count": 52
+    "forks_count": 55
   },
   {
     "full_name": "lnishan/awesome-competitive-programming",
-    "stargazers_count": 10672,
+    "stargazers_count": 10685,
     "open_issues_count": 23,
-    "forks_count": 2470
+    "forks_count": 2469
   },
   {
     "full_name": "karanpratapsingh/system-design",
-    "stargazers_count": 14208,
+    "stargazers_count": 14243,
     "open_issues_count": 3,
-    "forks_count": 1168
+    "forks_count": 1177
   },
   {
     "full_name": "ManishK4514/DSA-Questions",
@@ -127,21 +133,21 @@
   },
   {
     "full_name": "ronreiter/interactive-tutorials",
-    "stargazers_count": 3009,
-    "open_issues_count": 86,
+    "stargazers_count": 3016,
+    "open_issues_count": 85,
     "forks_count": 2179
   },
   {
     "full_name": "facebook/docusaurus",
-    "stargazers_count": 41091,
-    "open_issues_count": 269,
-    "forks_count": 6253
+    "stargazers_count": 41187,
+    "open_issues_count": 273,
+    "forks_count": 6262
   },
   {
     "full_name": "nhost/nhost",
-    "stargazers_count": 5562,
-    "open_issues_count": 141,
-    "forks_count": 294
+    "stargazers_count": 5706,
+    "open_issues_count": 144,
+    "forks_count": 303
   },
   {
     "full_name": "Franklin361/lottie-app",
@@ -172,11 +178,5 @@
     "stargazers_count": 1,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "Juliest88/mysql-node-express",
-    "stargazers_count": 97,
-    "open_issues_count": 12,
-    "forks_count": 36
   }
 ]
