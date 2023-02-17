@@ -1,31 +1,37 @@
 [
   {
+    "full_name": "pavanbelagatti/notes-app-cicd",
+    "stargazers_count": 3,
+    "open_issues_count": 0,
+    "forks_count": 3
+  },
+  {
     "full_name": "kaiwalyakoparkar/practical-devops",
     "stargazers_count": 31,
-    "open_issues_count": 5,
+    "open_issues_count": 7,
     "forks_count": 10
   },
   {
     "full_name": "VikParuchuri/zero_to_gpt",
-    "stargazers_count": 130,
+    "stargazers_count": 132,
     "open_issues_count": 0,
-    "forks_count": 47
+    "forks_count": 49
   },
   {
     "full_name": "Santosl2/wpp-chatgpt",
-    "stargazers_count": 37,
-    "open_issues_count": 1,
-    "forks_count": 19
+    "stargazers_count": 38,
+    "open_issues_count": 2,
+    "forks_count": 21
   },
   {
     "full_name": "karpathy/minGPT",
-    "stargazers_count": 12890,
+    "stargazers_count": 12965,
     "open_issues_count": 50,
-    "forks_count": 1438
+    "forks_count": 1458
   },
   {
     "full_name": "AdamsGeeky/Blockchain",
-    "stargazers_count": 116,
+    "stargazers_count": 117,
     "open_issues_count": 1,
     "forks_count": 10
   },
@@ -37,38 +43,38 @@
   },
   {
     "full_name": "TheAlgorithms/Go",
-    "stargazers_count": 12060,
-    "open_issues_count": 10,
-    "forks_count": 2096
+    "stargazers_count": 12072,
+    "open_issues_count": 9,
+    "forks_count": 2095
   },
   {
     "full_name": "harendra-shakya/smart-contract-attack-vectors",
-    "stargazers_count": 320,
+    "stargazers_count": 324,
     "open_issues_count": 0,
-    "forks_count": 58
+    "forks_count": 60
   },
   {
     "full_name": "TheAlgorithms/Python",
-    "stargazers_count": 153022,
-    "open_issues_count": 145,
-    "forks_count": 39031
+    "stargazers_count": 153170,
+    "open_issues_count": 146,
+    "forks_count": 39069
   },
   {
     "full_name": "alexeygrigorev/mlbookcamp-code",
-    "stargazers_count": 5597,
-    "open_issues_count": 84,
-    "forks_count": 1443
+    "stargazers_count": 5671,
+    "open_issues_count": 85,
+    "forks_count": 1463
   },
   {
     "full_name": "cloudinary-training/cld-intro-nodejs",
-    "stargazers_count": 3,
+    "stargazers_count": 4,
     "open_issues_count": 0,
-    "forks_count": 17
+    "forks_count": 18
   },
   {
     "full_name": "tigrisdata/tigris",
-    "stargazers_count": 456,
-    "open_issues_count": 22,
+    "stargazers_count": 458,
+    "open_issues_count": 36,
     "forks_count": 16
   },
   {
@@ -81,7 +87,7 @@
     "full_name": "OpenFunction/OpenFunction",
     "stargazers_count": 1014,
     "open_issues_count": 51,
-    "forks_count": 127
+    "forks_count": 128
   },
   {
     "full_name": "AdamsGeeky/In_my_campus",
@@ -115,21 +121,21 @@
   },
   {
     "full_name": "horizon-ui/horizon-ui-chakra-ts",
-    "stargazers_count": 250,
+    "stargazers_count": 251,
     "open_issues_count": 0,
-    "forks_count": 66
+    "forks_count": 67
   },
   {
     "full_name": "lnishan/awesome-competitive-programming",
-    "stargazers_count": 10783,
+    "stargazers_count": 10795,
     "open_issues_count": 23,
     "forks_count": 2469
   },
   {
     "full_name": "karanpratapsingh/system-design",
-    "stargazers_count": 14672,
+    "stargazers_count": 14696,
     "open_issues_count": 2,
-    "forks_count": 1238
+    "forks_count": 1244
   },
   {
     "full_name": "ManishK4514/DSA-Questions",
@@ -139,21 +145,21 @@
   },
   {
     "full_name": "ronreiter/interactive-tutorials",
-    "stargazers_count": 3072,
+    "stargazers_count": 3071,
     "open_issues_count": 85,
-    "forks_count": 2203
+    "forks_count": 2205
   },
   {
     "full_name": "facebook/docusaurus",
-    "stargazers_count": 42117,
-    "open_issues_count": 292,
-    "forks_count": 6469
+    "stargazers_count": 42203,
+    "open_issues_count": 280,
+    "forks_count": 6492
   },
   {
     "full_name": "nhost/nhost",
-    "stargazers_count": 6024,
-    "open_issues_count": 166,
-    "forks_count": 323
+    "stargazers_count": 6150,
+    "open_issues_count": 164,
+    "forks_count": 336
   },
   {
     "full_name": "Franklin361/lottie-app",
@@ -172,11 +178,5 @@
     "stargazers_count": 1,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "linuxfoundation/lf-podcast",
-    "stargazers_count": 77,
-    "open_issues_count": 2,
-    "forks_count": 10
   }
 ]
