@@ -1,9 +1,15 @@
 [
   {
+    "full_name": "score-spec/spec",
+    "stargazers_count": 7326,
+    "open_issues_count": 10,
+    "forks_count": 2564
+  },
+  {
     "full_name": "pavanbelagatti/notes-app-cicd",
     "stargazers_count": 4,
     "open_issues_count": 0,
-    "forks_count": 7
+    "forks_count": 10
   },
   {
     "full_name": "kaiwalyakoparkar/practical-devops",
@@ -13,27 +19,27 @@
   },
   {
     "full_name": "VikParuchuri/zero_to_gpt",
-    "stargazers_count": 133,
+    "stargazers_count": 135,
     "open_issues_count": 0,
-    "forks_count": 50
+    "forks_count": 51
   },
   {
     "full_name": "Santosl2/wpp-chatgpt",
-    "stargazers_count": 41,
+    "stargazers_count": 43,
     "open_issues_count": 2,
-    "forks_count": 22
+    "forks_count": 25
   },
   {
     "full_name": "karpathy/minGPT",
-    "stargazers_count": 13084,
+    "stargazers_count": 13164,
     "open_issues_count": 51,
-    "forks_count": 1476
+    "forks_count": 1490
   },
   {
     "full_name": "AdamsGeeky/Blockchain",
     "stargazers_count": 117,
     "open_issues_count": 1,
-    "forks_count": 10
+    "forks_count": 11
   },
   {
     "full_name": "didicodes/javascript-dev-bookmarks",
@@ -43,27 +49,27 @@
   },
   {
     "full_name": "TheAlgorithms/Go",
-    "stargazers_count": 12098,
+    "stargazers_count": 12120,
     "open_issues_count": 9,
-    "forks_count": 2098
+    "forks_count": 2101
   },
   {
     "full_name": "harendra-shakya/smart-contract-attack-vectors",
-    "stargazers_count": 328,
+    "stargazers_count": 333,
     "open_issues_count": 0,
-    "forks_count": 60
+    "forks_count": 62
   },
   {
     "full_name": "TheAlgorithms/Python",
-    "stargazers_count": 153332,
-    "open_issues_count": 147,
-    "forks_count": 39089
+    "stargazers_count": 153515,
+    "open_issues_count": 148,
+    "forks_count": 39115
   },
   {
     "full_name": "alexeygrigorev/mlbookcamp-code",
-    "stargazers_count": 5686,
+    "stargazers_count": 5696,
     "open_issues_count": 82,
-    "forks_count": 1467
+    "forks_count": 1469
   },
   {
     "full_name": "cloudinary-training/cld-intro-nodejs",
@@ -73,9 +79,9 @@
   },
   {
     "full_name": "tigrisdata/tigris",
-    "stargazers_count": 460,
-    "open_issues_count": 34,
-    "forks_count": 16
+    "stargazers_count": 488,
+    "open_issues_count": 38,
+    "forks_count": 17
   },
   {
     "full_name": "open-source-learners/communityink",
@@ -86,7 +92,7 @@
   {
     "full_name": "OpenFunction/OpenFunction",
     "stargazers_count": 1021,
-    "open_issues_count": 52,
+    "open_issues_count": 53,
     "forks_count": 128
   },
   {
@@ -105,7 +111,7 @@
     "full_name": "Ingressive-for-Good/I4G-OPENSOURCE-FRONTEND-PROJECT-2022",
     "stargazers_count": 29,
     "open_issues_count": 24,
-    "forks_count": 123
+    "forks_count": 122
   },
   {
     "full_name": "ismaelsadeeq/Data-Structures-Algorithms-Problems",
@@ -121,21 +127,21 @@
   },
   {
     "full_name": "horizon-ui/horizon-ui-chakra-ts",
-    "stargazers_count": 254,
+    "stargazers_count": 255,
     "open_issues_count": 0,
     "forks_count": 68
   },
   {
     "full_name": "lnishan/awesome-competitive-programming",
-    "stargazers_count": 10811,
+    "stargazers_count": 10851,
     "open_issues_count": 23,
-    "forks_count": 2468
+    "forks_count": 2471
   },
   {
     "full_name": "karanpratapsingh/system-design",
-    "stargazers_count": 14733,
-    "open_issues_count": 2,
-    "forks_count": 1255
+    "stargazers_count": 14753,
+    "open_issues_count": 3,
+    "forks_count": 1262
   },
   {
     "full_name": "ManishK4514/DSA-Questions",
@@ -145,21 +151,21 @@
   },
   {
     "full_name": "ronreiter/interactive-tutorials",
-    "stargazers_count": 3079,
+    "stargazers_count": 3082,
     "open_issues_count": 85,
-    "forks_count": 2205
+    "forks_count": 2206
   },
   {
     "full_name": "facebook/docusaurus",
-    "stargazers_count": 42276,
-    "open_issues_count": 286,
-    "forks_count": 6510
+    "stargazers_count": 42385,
+    "open_issues_count": 289,
+    "forks_count": 6536
   },
   {
     "full_name": "nhost/nhost",
-    "stargazers_count": 6229,
-    "open_issues_count": 171,
-    "forks_count": 339
+    "stargazers_count": 6250,
+    "open_issues_count": 166,
+    "forks_count": 340
   },
   {
     "full_name": "Franklin361/lottie-app",
@@ -172,11 +178,5 @@
     "stargazers_count": 19,
     "open_issues_count": 0,
     "forks_count": 3
-  },
-  {
-    "full_name": "ismaelsadeeq/Hierarchical-Deterministic-key-generation",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]
