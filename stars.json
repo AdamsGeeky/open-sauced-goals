@@ -13,9 +13,9 @@
   },
   {
     "full_name": "score-spec/spec",
-    "stargazers_count": 7841,
-    "open_issues_count": 10,
-    "forks_count": 2495
+    "stargazers_count": 7838,
+    "open_issues_count": 11,
+    "forks_count": 2490
   },
   {
     "full_name": "pavanbelagatti/notes-app-cicd",
@@ -26,26 +26,26 @@
   {
     "full_name": "kaiwalyakoparkar/practical-devops",
     "stargazers_count": 32,
-    "open_issues_count": 8,
+    "open_issues_count": 6,
     "forks_count": 12
   },
   {
     "full_name": "VikParuchuri/zero_to_gpt",
-    "stargazers_count": 222,
-    "open_issues_count": 1,
+    "stargazers_count": 228,
+    "open_issues_count": 0,
     "forks_count": 87
   },
   {
     "full_name": "Santosl2/wpp-chatgpt",
-    "stargazers_count": 61,
+    "stargazers_count": 60,
     "open_issues_count": 2,
     "forks_count": 53
   },
   {
     "full_name": "karpathy/minGPT",
-    "stargazers_count": 14294,
+    "stargazers_count": 14366,
     "open_issues_count": 51,
-    "forks_count": 1660
+    "forks_count": 1671
   },
   {
     "full_name": "AdamsGeeky/Blockchain",
@@ -61,9 +61,9 @@
   },
   {
     "full_name": "TheAlgorithms/Go",
-    "stargazers_count": 12397,
+    "stargazers_count": 12433,
     "open_issues_count": 8,
-    "forks_count": 2157
+    "forks_count": 2171
   },
   {
     "full_name": "harendra-shakya/smart-contract-attack-vectors",
@@ -73,15 +73,15 @@
   },
   {
     "full_name": "TheAlgorithms/Python",
-    "stargazers_count": 157015,
-    "open_issues_count": 147,
-    "forks_count": 39623
+    "stargazers_count": 157217,
+    "open_issues_count": 150,
+    "forks_count": 39670
   },
   {
     "full_name": "alexeygrigorev/mlbookcamp-code",
-    "stargazers_count": 5789,
+    "stargazers_count": 5800,
     "open_issues_count": 82,
-    "forks_count": 1497
+    "forks_count": 1505
   },
   {
     "full_name": "cloudinary-training/cld-intro-nodejs",
@@ -91,9 +91,9 @@
   },
   {
     "full_name": "tigrisdata/tigris",
-    "stargazers_count": 560,
-    "open_issues_count": 55,
-    "forks_count": 20
+    "stargazers_count": 577,
+    "open_issues_count": 57,
+    "forks_count": 22
   },
   {
     "full_name": "open-source-learners/communityink",
@@ -103,9 +103,9 @@
   },
   {
     "full_name": "OpenFunction/OpenFunction",
-    "stargazers_count": 1114,
+    "stargazers_count": 1119,
     "open_issues_count": 54,
-    "forks_count": 137
+    "forks_count": 138
   },
   {
     "full_name": "AdamsGeeky/In_my_campus",
@@ -141,19 +141,19 @@
     "full_name": "horizon-ui/horizon-ui-chakra-ts",
     "stargazers_count": 274,
     "open_issues_count": 0,
-    "forks_count": 83
+    "forks_count": 84
   },
   {
     "full_name": "lnishan/awesome-competitive-programming",
-    "stargazers_count": 11085,
-    "open_issues_count": 23,
-    "forks_count": 2494
+    "stargazers_count": 11097,
+    "open_issues_count": 24,
+    "forks_count": 2496
   },
   {
     "full_name": "karanpratapsingh/system-design",
-    "stargazers_count": 15153,
+    "stargazers_count": 15184,
     "open_issues_count": 2,
-    "forks_count": 1338
+    "forks_count": 1341
   },
   {
     "full_name": "ManishK4514/DSA-Questions",
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "ronreiter/interactive-tutorials",
-    "stargazers_count": 3159,
+    "stargazers_count": 3169,
     "open_issues_count": 84,
-    "forks_count": 2243
+    "forks_count": 2246
   },
   {
     "full_name": "facebook/docusaurus",
-    "stargazers_count": 43638,
-    "open_issues_count": 291,
-    "forks_count": 6770
+    "stargazers_count": 43729,
+    "open_issues_count": 288,
+    "forks_count": 6785
   },
   {
     "full_name": "nhost/nhost",
-    "stargazers_count": 6523,
-    "open_issues_count": 166,
-    "forks_count": 365
+    "stargazers_count": 6532,
+    "open_issues_count": 162,
+    "forks_count": 366
   }
 ]
