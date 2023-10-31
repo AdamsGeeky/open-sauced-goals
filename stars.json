@@ -1,15 +1,21 @@
 [
   {
+    "full_name": "sxin0/docsify-termynal",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
     "full_name": "Sajiyah-Salat/DevOps-Course",
-    "stargazers_count": 1,
+    "stargazers_count": 2,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "surrealdb/surrealdb",
-    "stargazers_count": 23064,
-    "open_issues_count": 375,
-    "forks_count": 677
+    "stargazers_count": 23137,
+    "open_issues_count": 383,
+    "forks_count": 681
   },
   {
     "full_name": "AdamsGeeky/Geekink",
@@ -19,15 +25,15 @@
   },
   {
     "full_name": "ayush714/data-science-roadmap",
-    "stargazers_count": 551,
+    "stargazers_count": 552,
     "open_issues_count": 3,
     "forks_count": 93
   },
   {
     "full_name": "ayush714/customer-satisfaction-mlops",
-    "stargazers_count": 52,
+    "stargazers_count": 53,
     "open_issues_count": 0,
-    "forks_count": 24
+    "forks_count": 25
   },
   {
     "full_name": "firtman/capabilities",
@@ -43,7 +49,7 @@
   },
   {
     "full_name": "WeMakeDevs/open-source-course",
-    "stargazers_count": 813,
+    "stargazers_count": 812,
     "open_issues_count": 3,
     "forks_count": 454
   },
@@ -57,19 +63,19 @@
     "full_name": "9jacoderYT/Login-SignUp-Form-using-Material-UI-with-Full-Validation",
     "stargazers_count": 1,
     "open_issues_count": 0,
-    "forks_count": 4
+    "forks_count": 5
   },
   {
     "full_name": "open-cli-tools/concurrently",
-    "stargazers_count": 6453,
-    "open_issues_count": 58,
-    "forks_count": 241
+    "stargazers_count": 6465,
+    "open_issues_count": 56,
+    "forks_count": 240
   },
   {
     "full_name": "CrowdDotDev/crowd.dev",
-    "stargazers_count": 2984,
-    "open_issues_count": 178,
-    "forks_count": 826
+    "stargazers_count": 3022,
+    "open_issues_count": 170,
+    "forks_count": 899
   },
   {
     "full_name": "MiqeWazowhiskey/real-chat-app",
@@ -85,9 +91,9 @@
   },
   {
     "full_name": "Clueless-Community/seamless-ui",
-    "stargazers_count": 288,
-    "open_issues_count": 6,
-    "forks_count": 267
+    "stargazers_count": 290,
+    "open_issues_count": 5,
+    "forks_count": 273
   },
   {
     "full_name": "Ukhang/brenda",
@@ -99,7 +105,7 @@
     "full_name": "github-20k/super-star",
     "stargazers_count": 218,
     "open_issues_count": 10,
-    "forks_count": 18
+    "forks_count": 17
   },
   {
     "full_name": "mfirass/Simple-CRUD-SchoolMangementApp",
@@ -111,7 +117,7 @@
     "full_name": "athenaweb629/chat-application-socket.io",
     "stargazers_count": 50,
     "open_issues_count": 1,
-    "forks_count": 6
+    "forks_count": 7
   },
   {
     "full_name": "umarbrowser/green-connect-2023-gdsc-solution-challenge",
@@ -127,15 +133,15 @@
   },
   {
     "full_name": "score-spec/spec",
-    "stargazers_count": 7656,
+    "stargazers_count": 7652,
     "open_issues_count": 9,
-    "forks_count": 2321
+    "forks_count": 2320
   },
   {
     "full_name": "pavanbelagatti/notes-app-cicd",
     "stargazers_count": 5,
     "open_issues_count": 0,
-    "forks_count": 68
+    "forks_count": 69
   },
   {
     "full_name": "kaiwalyakoparkar/practical-devops",
@@ -145,7 +151,7 @@
   },
   {
     "full_name": "VikParuchuri/zero_to_gpt",
-    "stargazers_count": 300,
+    "stargazers_count": 302,
     "open_issues_count": 0,
     "forks_count": 108
   },
@@ -153,13 +159,13 @@
     "full_name": "Santosl2/wpp-chatgpt",
     "stargazers_count": 77,
     "open_issues_count": 4,
-    "forks_count": 73
+    "forks_count": 74
   },
   {
     "full_name": "karpathy/minGPT",
-    "stargazers_count": 16489,
-    "open_issues_count": 61,
-    "forks_count": 1980
+    "stargazers_count": 16516,
+    "open_issues_count": 62,
+    "forks_count": 1983
   },
   {
     "full_name": "AdamsGeeky/Blockchain",
@@ -171,12 +177,6 @@
     "full_name": "didicodes/javascript-dev-bookmarks",
     "stargazers_count": 390,
     "open_issues_count": 1,
-    "forks_count": 108
-  },
-  {
-    "full_name": "TheAlgorithms/Go",
-    "stargazers_count": 13616,
-    "open_issues_count": 17,
-    "forks_count": 2447
+    "forks_count": 111
   }
 ]
