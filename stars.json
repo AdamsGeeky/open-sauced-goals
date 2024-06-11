@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "David-Lazaro-Fernandez/GHW-NEXT_VOTING_APP",
+    "stargazers_count": 3,
+    "open_issues_count": 0,
+    "forks_count": 5
+  },
+  {
     "full_name": "tvpeter/awesome-bitcoin",
     "stargazers_count": 1,
     "open_issues_count": 0,
@@ -49,9 +55,9 @@
   },
   {
     "full_name": "surrealdb/surrealdb",
-    "stargazers_count": 25837,
-    "open_issues_count": 589,
-    "forks_count": 796
+    "stargazers_count": 25874,
+    "open_issues_count": 595,
+    "forks_count": 795
   },
   {
     "full_name": "AdamsGeeky/Geekink",
@@ -61,15 +67,15 @@
   },
   {
     "full_name": "ayush714/data-science-roadmap",
-    "stargazers_count": 702,
-    "open_issues_count": 4,
-    "forks_count": 128
+    "stargazers_count": 706,
+    "open_issues_count": 5,
+    "forks_count": 130
   },
   {
     "full_name": "ayush714/customer-satisfaction-mlops",
     "stargazers_count": 103,
     "open_issues_count": 2,
-    "forks_count": 59
+    "forks_count": 60
   },
   {
     "full_name": "firtman/capabilities",
@@ -85,7 +91,7 @@
   },
   {
     "full_name": "WeMakeDevs/open-source-course",
-    "stargazers_count": 788,
+    "stargazers_count": 787,
     "open_issues_count": 3,
     "forks_count": 138
   },
@@ -103,15 +109,15 @@
   },
   {
     "full_name": "open-cli-tools/concurrently",
-    "stargazers_count": 6842,
+    "stargazers_count": 6845,
     "open_issues_count": 63,
     "forks_count": 222
   },
   {
     "full_name": "CrowdDotDev/crowd.dev",
     "stargazers_count": 3244,
-    "open_issues_count": 173,
-    "forks_count": 770
+    "open_issues_count": 172,
+    "forks_count": 768
   },
   {
     "full_name": "MiqeWazowhiskey/real-chat-app",
@@ -121,21 +127,21 @@
   },
   {
     "full_name": "X1-Il/ToDo-app",
-    "stargazers_count": 52,
+    "stargazers_count": 54,
     "open_issues_count": 0,
-    "forks_count": 12
+    "forks_count": 13
   },
   {
     "full_name": "Clueless-Community/seamless-ui",
-    "stargazers_count": 300,
+    "stargazers_count": 301,
     "open_issues_count": 4,
-    "forks_count": 267
+    "forks_count": 268
   },
   {
     "full_name": "Ukhang/brenda",
     "stargazers_count": 15,
     "open_issues_count": 0,
-    "forks_count": 12
+    "forks_count": 13
   },
   {
     "full_name": "gitroomhq/super-star",
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "score-spec/spec",
-    "stargazers_count": 7626,
-    "open_issues_count": 3,
+    "stargazers_count": 7622,
+    "open_issues_count": 4,
     "forks_count": 2222
-  },
-  {
-    "full_name": "pavanbelagatti/notes-app-cicd",
-    "stargazers_count": 6,
-    "open_issues_count": 0,
-    "forks_count": 130
   }
 ]
