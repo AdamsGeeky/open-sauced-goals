@@ -55,9 +55,9 @@
   },
   {
     "full_name": "surrealdb/surrealdb",
-    "stargazers_count": 26137,
-    "open_issues_count": 635,
-    "forks_count": 808
+    "stargazers_count": 26165,
+    "open_issues_count": 638,
+    "forks_count": 811
   },
   {
     "full_name": "AdamsGeeky/Geekink",
@@ -67,15 +67,15 @@
   },
   {
     "full_name": "ayush714/data-science-roadmap",
-    "stargazers_count": 708,
+    "stargazers_count": 707,
     "open_issues_count": 6,
     "forks_count": 130
   },
   {
     "full_name": "ayush714/customer-satisfaction-mlops",
-    "stargazers_count": 106,
+    "stargazers_count": 108,
     "open_issues_count": 3,
-    "forks_count": 64
+    "forks_count": 65
   },
   {
     "full_name": "firtman/capabilities",
@@ -109,15 +109,15 @@
   },
   {
     "full_name": "open-cli-tools/concurrently",
-    "stargazers_count": 6880,
-    "open_issues_count": 68,
+    "stargazers_count": 6883,
+    "open_issues_count": 66,
     "forks_count": 224
   },
   {
     "full_name": "CrowdDotDev/crowd.dev",
     "stargazers_count": 3255,
     "open_issues_count": 142,
-    "forks_count": 758
+    "forks_count": 759
   },
   {
     "full_name": "MiqeWazowhiskey/real-chat-app",
@@ -133,7 +133,7 @@
   },
   {
     "full_name": "Clueless-Community/seamless-ui",
-    "stargazers_count": 303,
+    "stargazers_count": 302,
     "open_issues_count": 4,
     "forks_count": 267
   },
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "score-spec/spec",
-    "stargazers_count": 7622,
-    "open_issues_count": 5,
+    "stargazers_count": 7620,
+    "open_issues_count": 4,
     "forks_count": 2217
   }
 ]
