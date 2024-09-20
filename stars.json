@@ -1,9 +1,9 @@
 [
   {
     "full_name": "DevOpsHiveHQ/dynamic-devops-roadmap",
-    "stargazers_count": 698,
+    "stargazers_count": 703,
     "open_issues_count": 1,
-    "forks_count": 56
+    "forks_count": 57
   },
   {
     "full_name": "risc0/battleship-example",
@@ -13,21 +13,21 @@
   },
   {
     "full_name": "stackblitz/webcontainer-docs",
-    "stargazers_count": 71,
+    "stargazers_count": 73,
     "open_issues_count": 9,
     "forks_count": 23
   },
   {
     "full_name": "stackblitz/tutorialkit",
-    "stargazers_count": 234,
+    "stargazers_count": 235,
     "open_issues_count": 45,
-    "forks_count": 22
+    "forks_count": 24
   },
   {
     "full_name": "FrancescoXX/rustcrab",
-    "stargazers_count": 404,
+    "stargazers_count": 405,
     "open_issues_count": 25,
-    "forks_count": 70
+    "forks_count": 71
   },
   {
     "full_name": "David-Lazaro-Fernandez/GHW-NEXT_VOTING_APP",
@@ -49,7 +49,7 @@
   },
   {
     "full_name": "Kei-K23/mentor",
-    "stargazers_count": 10,
+    "stargazers_count": 11,
     "open_issues_count": 0,
     "forks_count": 1
   },
@@ -85,9 +85,9 @@
   },
   {
     "full_name": "surrealdb/surrealdb",
-    "stargazers_count": 26650,
-    "open_issues_count": 636,
-    "forks_count": 854
+    "stargazers_count": 26840,
+    "open_issues_count": 638,
+    "forks_count": 859
   },
   {
     "full_name": "AdamsGeeky/V1",
@@ -97,7 +97,7 @@
   },
   {
     "full_name": "ayush714/data-science-roadmap",
-    "stargazers_count": 732,
+    "stargazers_count": 733,
     "open_issues_count": 6,
     "forks_count": 132
   },
@@ -139,15 +139,15 @@
   },
   {
     "full_name": "open-cli-tools/concurrently",
-    "stargazers_count": 7001,
+    "stargazers_count": 7007,
     "open_issues_count": 60,
     "forks_count": 228
   },
   {
     "full_name": "CrowdDotDev/crowd.dev",
-    "stargazers_count": 3290,
-    "open_issues_count": 132,
-    "forks_count": 756
+    "stargazers_count": 3291,
+    "open_issues_count": 131,
+    "forks_count": 754
   },
   {
     "full_name": "MiqeWazowhiskey/real-chat-app",
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "gitroomhq/super-star",
-    "stargazers_count": 233,
+    "stargazers_count": 234,
     "open_issues_count": 10,
     "forks_count": 18
   }
