@@ -1,9 +1,9 @@
 [
   {
     "full_name": "DevOpsHiveHQ/dynamic-devops-roadmap",
-    "stargazers_count": 703,
-    "open_issues_count": 1,
-    "forks_count": 57
+    "stargazers_count": 706,
+    "open_issues_count": 2,
+    "forks_count": 60
   },
   {
     "full_name": "risc0/battleship-example",
@@ -14,18 +14,18 @@
   {
     "full_name": "stackblitz/webcontainer-docs",
     "stargazers_count": 73,
-    "open_issues_count": 9,
+    "open_issues_count": 11,
     "forks_count": 23
   },
   {
     "full_name": "stackblitz/tutorialkit",
-    "stargazers_count": 235,
-    "open_issues_count": 45,
+    "stargazers_count": 244,
+    "open_issues_count": 44,
     "forks_count": 24
   },
   {
     "full_name": "FrancescoXX/rustcrab",
-    "stargazers_count": 405,
+    "stargazers_count": 409,
     "open_issues_count": 25,
     "forks_count": 71
   },
@@ -85,9 +85,9 @@
   },
   {
     "full_name": "surrealdb/surrealdb",
-    "stargazers_count": 26840,
-    "open_issues_count": 638,
-    "forks_count": 859
+    "stargazers_count": 26949,
+    "open_issues_count": 640,
+    "forks_count": 863
   },
   {
     "full_name": "AdamsGeeky/V1",
@@ -97,13 +97,13 @@
   },
   {
     "full_name": "ayush714/data-science-roadmap",
-    "stargazers_count": 733,
+    "stargazers_count": 735,
     "open_issues_count": 6,
-    "forks_count": 132
+    "forks_count": 133
   },
   {
     "full_name": "ayush714/customer-satisfaction-mlops",
-    "stargazers_count": 120,
+    "stargazers_count": 121,
     "open_issues_count": 4,
     "forks_count": 72
   },
@@ -123,7 +123,7 @@
     "full_name": "WeMakeDevs/open-source-course",
     "stargazers_count": 772,
     "open_issues_count": 3,
-    "forks_count": 137
+    "forks_count": 138
   },
   {
     "full_name": "kaiwalyakoparkar/quora-for-college",
@@ -139,14 +139,14 @@
   },
   {
     "full_name": "open-cli-tools/concurrently",
-    "stargazers_count": 7007,
+    "stargazers_count": 7014,
     "open_issues_count": 60,
-    "forks_count": 228
+    "forks_count": 229
   },
   {
     "full_name": "CrowdDotDev/crowd.dev",
     "stargazers_count": 3291,
-    "open_issues_count": 131,
+    "open_issues_count": 132,
     "forks_count": 754
   },
   {
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "gitroomhq/super-star",
-    "stargazers_count": 234,
+    "stargazers_count": 235,
     "open_issues_count": 10,
     "forks_count": 18
   }
