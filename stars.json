@@ -1,9 +1,9 @@
 [
   {
     "full_name": "DevOpsHiveHQ/dynamic-devops-roadmap",
-    "stargazers_count": 864,
+    "stargazers_count": 888,
     "open_issues_count": 2,
-    "forks_count": 69
+    "forks_count": 71
   },
   {
     "full_name": "risc0/battleship-example",
@@ -13,19 +13,19 @@
   },
   {
     "full_name": "stackblitz/webcontainer-docs",
-    "stargazers_count": 73,
+    "stargazers_count": 74,
     "open_issues_count": 12,
     "forks_count": 23
   },
   {
     "full_name": "stackblitz/tutorialkit",
-    "stargazers_count": 247,
+    "stargazers_count": 252,
     "open_issues_count": 45,
-    "forks_count": 24
+    "forks_count": 25
   },
   {
     "full_name": "FrancescoXX/rustcrab",
-    "stargazers_count": 409,
+    "stargazers_count": 410,
     "open_issues_count": 26,
     "forks_count": 73
   },
@@ -67,7 +67,7 @@
   },
   {
     "full_name": "dubesar/Ultimate-Java-Resources",
-    "stargazers_count": 285,
+    "stargazers_count": 286,
     "open_issues_count": 71,
     "forks_count": 291
   },
@@ -85,8 +85,8 @@
   },
   {
     "full_name": "surrealdb/surrealdb",
-    "stargazers_count": 27002,
-    "open_issues_count": 632,
+    "stargazers_count": 27066,
+    "open_issues_count": 631,
     "forks_count": 866
   },
   {
@@ -97,13 +97,13 @@
   },
   {
     "full_name": "ayush714/data-science-roadmap",
-    "stargazers_count": 736,
+    "stargazers_count": 738,
     "open_issues_count": 6,
     "forks_count": 133
   },
   {
     "full_name": "ayush714/customer-satisfaction-mlops",
-    "stargazers_count": 121,
+    "stargazers_count": 123,
     "open_issues_count": 4,
     "forks_count": 73
   },
@@ -127,7 +127,7 @@
   },
   {
     "full_name": "kaiwalyakoparkar/quora-for-college",
-    "stargazers_count": 27,
+    "stargazers_count": 28,
     "open_issues_count": 1,
     "forks_count": 14
   },
@@ -139,15 +139,15 @@
   },
   {
     "full_name": "open-cli-tools/concurrently",
-    "stargazers_count": 7029,
+    "stargazers_count": 7034,
     "open_issues_count": 60,
-    "forks_count": 229
+    "forks_count": 230
   },
   {
     "full_name": "CrowdDotDev/crowd.dev",
-    "stargazers_count": 3290,
+    "stargazers_count": 3292,
     "open_issues_count": 135,
-    "forks_count": 754
+    "forks_count": 752
   },
   {
     "full_name": "MiqeWazowhiskey/real-chat-app",
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "gitroomhq/super-star",
-    "stargazers_count": 235,
+    "stargazers_count": 236,
     "open_issues_count": 10,
     "forks_count": 18
   }
