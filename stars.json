@@ -1,9 +1,9 @@
 [
   {
     "full_name": "DevOpsHiveHQ/dynamic-devops-roadmap",
-    "stargazers_count": 969,
+    "stargazers_count": 982,
     "open_issues_count": 2,
-    "forks_count": 74
+    "forks_count": 76
   },
   {
     "full_name": "risc0/battleship-example",
@@ -14,19 +14,19 @@
   {
     "full_name": "stackblitz/webcontainer-docs",
     "stargazers_count": 77,
-    "open_issues_count": 12,
-    "forks_count": 25
+    "open_issues_count": 14,
+    "forks_count": 26
   },
   {
     "full_name": "stackblitz/tutorialkit",
-    "stargazers_count": 382,
-    "open_issues_count": 49,
+    "stargazers_count": 430,
+    "open_issues_count": 47,
     "forks_count": 39
   },
   {
     "full_name": "FrancescoXX/rustcrab",
     "stargazers_count": 420,
-    "open_issues_count": 20,
+    "open_issues_count": 22,
     "forks_count": 80
   },
   {
@@ -45,7 +45,7 @@
     "full_name": "Iamanshuaditya/lul",
     "stargazers_count": 15,
     "open_issues_count": 0,
-    "forks_count": 5
+    "forks_count": 6
   },
   {
     "full_name": "Kei-K23/mentor",
@@ -67,7 +67,7 @@
   },
   {
     "full_name": "dubesar/Ultimate-Java-Resources",
-    "stargazers_count": 287,
+    "stargazers_count": 288,
     "open_issues_count": 71,
     "forks_count": 291
   },
@@ -85,9 +85,9 @@
   },
   {
     "full_name": "surrealdb/surrealdb",
-    "stargazers_count": 27189,
-    "open_issues_count": 630,
-    "forks_count": 876
+    "stargazers_count": 27214,
+    "open_issues_count": 638,
+    "forks_count": 877
   },
   {
     "full_name": "AdamsGeeky/V1",
@@ -99,7 +99,7 @@
     "full_name": "ayush714/data-science-roadmap",
     "stargazers_count": 739,
     "open_issues_count": 6,
-    "forks_count": 134
+    "forks_count": 132
   },
   {
     "full_name": "ayush714/customer-satisfaction-mlops",
@@ -139,14 +139,14 @@
   },
   {
     "full_name": "open-cli-tools/concurrently",
-    "stargazers_count": 7053,
-    "open_issues_count": 60,
-    "forks_count": 229
+    "stargazers_count": 7061,
+    "open_issues_count": 61,
+    "forks_count": 230
   },
   {
     "full_name": "CrowdDotDev/crowd.dev",
-    "stargazers_count": 3302,
-    "open_issues_count": 126,
+    "stargazers_count": 3303,
+    "open_issues_count": 125,
     "forks_count": 753
   },
   {
@@ -163,7 +163,7 @@
   },
   {
     "full_name": "Clueless-Community/seamless-ui",
-    "stargazers_count": 309,
+    "stargazers_count": 310,
     "open_issues_count": 4,
     "forks_count": 266
   },
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "gitroomhq/super-star",
-    "stargazers_count": 238,
+    "stargazers_count": 240,
     "open_issues_count": 10,
     "forks_count": 18
   }
