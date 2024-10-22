@@ -1,9 +1,9 @@
 [
   {
     "full_name": "DevOpsHiveHQ/dynamic-devops-roadmap",
-    "stargazers_count": 1135,
+    "stargazers_count": 1163,
     "open_issues_count": 2,
-    "forks_count": 84
+    "forks_count": 87
   },
   {
     "full_name": "risc0/battleship-example",
@@ -19,13 +19,13 @@
   },
   {
     "full_name": "stackblitz/tutorialkit",
-    "stargazers_count": 439,
-    "open_issues_count": 49,
-    "forks_count": 41
+    "stargazers_count": 448,
+    "open_issues_count": 48,
+    "forks_count": 42
   },
   {
     "full_name": "FrancescoXX/rustcrab",
-    "stargazers_count": 421,
+    "stargazers_count": 423,
     "open_issues_count": 24,
     "forks_count": 81
   },
@@ -78,16 +78,10 @@
     "forks_count": 1
   },
   {
-    "full_name": "Sajiyah-Salat/DevOps-Course",
-    "stargazers_count": 2,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
     "full_name": "surrealdb/surrealdb",
-    "stargazers_count": 27243,
-    "open_issues_count": 646,
-    "forks_count": 880
+    "stargazers_count": 27270,
+    "open_issues_count": 651,
+    "forks_count": 884
   },
   {
     "full_name": "AdamsGeeky/V1",
@@ -97,7 +91,7 @@
   },
   {
     "full_name": "ayush714/data-science-roadmap",
-    "stargazers_count": 738,
+    "stargazers_count": 739,
     "open_issues_count": 6,
     "forks_count": 132
   },
@@ -139,15 +133,15 @@
   },
   {
     "full_name": "open-cli-tools/concurrently",
-    "stargazers_count": 7063,
+    "stargazers_count": 7070,
     "open_issues_count": 61,
-    "forks_count": 230
+    "forks_count": 231
   },
   {
     "full_name": "CrowdDotDev/crowd.dev",
-    "stargazers_count": 3301,
-    "open_issues_count": 126,
-    "forks_count": 752
+    "stargazers_count": 3304,
+    "open_issues_count": 128,
+    "forks_count": 749
   },
   {
     "full_name": "MiqeWazowhiskey/real-chat-app",
@@ -178,5 +172,11 @@
     "stargazers_count": 240,
     "open_issues_count": 10,
     "forks_count": 18
+  },
+  {
+    "full_name": "mfirass/Simple-CRUD-SchoolMangementApp",
+    "stargazers_count": 24,
+    "open_issues_count": 1,
+    "forks_count": 17
   }
 ]
