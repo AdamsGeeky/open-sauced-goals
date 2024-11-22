@@ -1,15 +1,21 @@
 [
   {
+    "full_name": "smartcontractkit/chainlink",
+    "stargazers_count": 7048,
+    "open_issues_count": 262,
+    "forks_count": 1721
+  },
+  {
     "full_name": "DexisApp/Dexis",
-    "stargazers_count": 360,
+    "stargazers_count": 359,
     "open_issues_count": 0,
-    "forks_count": 124
+    "forks_count": 115
   },
   {
     "full_name": "DevOpsHiveHQ/dynamic-devops-roadmap",
-    "stargazers_count": 1393,
+    "stargazers_count": 1401,
     "open_issues_count": 2,
-    "forks_count": 103
+    "forks_count": 107
   },
   {
     "full_name": "risc0/battleship-example",
@@ -19,19 +25,19 @@
   },
   {
     "full_name": "stackblitz/webcontainer-docs",
-    "stargazers_count": 80,
-    "open_issues_count": 14,
-    "forks_count": 27
+    "stargazers_count": 81,
+    "open_issues_count": 15,
+    "forks_count": 28
   },
   {
     "full_name": "stackblitz/tutorialkit",
-    "stargazers_count": 484,
-    "open_issues_count": 50,
+    "stargazers_count": 502,
+    "open_issues_count": 52,
     "forks_count": 48
   },
   {
     "full_name": "FrancescoXX/rustcrab",
-    "stargazers_count": 420,
+    "stargazers_count": 419,
     "open_issues_count": 24,
     "forks_count": 87
   },
@@ -73,7 +79,7 @@
   },
   {
     "full_name": "dubesar/Ultimate-Java-Resources",
-    "stargazers_count": 297,
+    "stargazers_count": 298,
     "open_issues_count": 71,
     "forks_count": 293
   },
@@ -85,9 +91,9 @@
   },
   {
     "full_name": "surrealdb/surrealdb",
-    "stargazers_count": 27531,
-    "open_issues_count": 667,
-    "forks_count": 898
+    "stargazers_count": 27557,
+    "open_issues_count": 664,
+    "forks_count": 902
   },
   {
     "full_name": "AdamsGeeky/V1",
@@ -139,13 +145,13 @@
   },
   {
     "full_name": "open-cli-tools/concurrently",
-    "stargazers_count": 7133,
-    "open_issues_count": 62,
+    "stargazers_count": 7139,
+    "open_issues_count": 63,
     "forks_count": 233
   },
   {
     "full_name": "CrowdDotDev/crowd.dev",
-    "stargazers_count": 3294,
+    "stargazers_count": 3292,
     "open_issues_count": 128,
     "forks_count": 752
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 20,
     "open_issues_count": 0,
     "forks_count": 15
-  },
-  {
-    "full_name": "mfirass/Simple-CRUD-SchoolMangementApp",
-    "stargazers_count": 24,
-    "open_issues_count": 1,
-    "forks_count": 17
   }
 ]
