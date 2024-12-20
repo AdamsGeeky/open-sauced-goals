@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "avgupta456/github-trends",
+    "stargazers_count": 12849,
+    "open_issues_count": 21,
+    "forks_count": 91
+  },
+  {
     "full_name": "mkassm/designing-data-intensive-applications-notes",
     "stargazers_count": 20,
     "open_issues_count": 0,
@@ -7,21 +13,21 @@
   },
   {
     "full_name": "smartcontractkit/chainlink",
-    "stargazers_count": 7104,
-    "open_issues_count": 257,
-    "forks_count": 1728
+    "stargazers_count": 7109,
+    "open_issues_count": 241,
+    "forks_count": 1730
   },
   {
     "full_name": "DexisApp/Dexis",
-    "stargazers_count": 347,
+    "stargazers_count": 346,
     "open_issues_count": 0,
     "forks_count": 115
   },
   {
     "full_name": "DevOpsHiveHQ/dynamic-devops-roadmap",
-    "stargazers_count": 1542,
-    "open_issues_count": 4,
-    "forks_count": 116
+    "stargazers_count": 1602,
+    "open_issues_count": 5,
+    "forks_count": 121
   },
   {
     "full_name": "risc0/battleship-example",
@@ -32,19 +38,19 @@
   {
     "full_name": "stackblitz/webcontainer-docs",
     "stargazers_count": 96,
-    "open_issues_count": 15,
-    "forks_count": 33
+    "open_issues_count": 18,
+    "forks_count": 34
   },
   {
     "full_name": "stackblitz/tutorialkit",
-    "stargazers_count": 548,
+    "stargazers_count": 552,
     "open_issues_count": 50,
-    "forks_count": 56
+    "forks_count": 60
   },
   {
     "full_name": "FrancescoXX/rustcrab",
-    "stargazers_count": 422,
-    "open_issues_count": 24,
+    "stargazers_count": 424,
+    "open_issues_count": 22,
     "forks_count": 84
   },
   {
@@ -97,8 +103,8 @@
   },
   {
     "full_name": "surrealdb/surrealdb",
-    "stargazers_count": 28308,
-    "open_issues_count": 688,
+    "stargazers_count": 28334,
+    "open_issues_count": 687,
     "forks_count": 926
   },
   {
@@ -109,7 +115,7 @@
   },
   {
     "full_name": "ayush714/data-science-roadmap",
-    "stargazers_count": 746,
+    "stargazers_count": 745,
     "open_issues_count": 6,
     "forks_count": 134
   },
@@ -123,7 +129,7 @@
     "full_name": "firtman/capabilities",
     "stargazers_count": 14,
     "open_issues_count": 0,
-    "forks_count": 15
+    "forks_count": 16
   },
   {
     "full_name": "AdamsGeeky/jobot",
@@ -151,14 +157,14 @@
   },
   {
     "full_name": "open-cli-tools/concurrently",
-    "stargazers_count": 7168,
-    "open_issues_count": 66,
-    "forks_count": 234
+    "stargazers_count": 7177,
+    "open_issues_count": 67,
+    "forks_count": 235
   },
   {
     "full_name": "CrowdDotDev/crowd.dev",
-    "stargazers_count": 3293,
-    "open_issues_count": 134,
+    "stargazers_count": 3292,
+    "open_issues_count": 133,
     "forks_count": 747
   },
   {
@@ -172,11 +178,5 @@
     "stargazers_count": 57,
     "open_issues_count": 0,
     "forks_count": 15
-  },
-  {
-    "full_name": "Clueless-Community/seamless-ui",
-    "stargazers_count": 310,
-    "open_issues_count": 4,
-    "forks_count": 264
   }
 ]
