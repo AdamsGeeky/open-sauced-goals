@@ -1,9 +1,9 @@
 [
   {
     "full_name": "avgupta456/github-trends",
-    "stargazers_count": 15894,
+    "stargazers_count": 15895,
     "open_issues_count": 46,
-    "forks_count": 109
+    "forks_count": 108
   },
   {
     "full_name": "mkassm/designing-data-intensive-applications-notes",
@@ -13,9 +13,9 @@
   },
   {
     "full_name": "smartcontractkit/chainlink",
-    "stargazers_count": 7148,
-    "open_issues_count": 207,
-    "forks_count": 1739
+    "stargazers_count": 7153,
+    "open_issues_count": 223,
+    "forks_count": 1743
   },
   {
     "full_name": "DexisApp/Dexis",
@@ -25,7 +25,7 @@
   },
   {
     "full_name": "DevOpsHiveHQ/dynamic-devops-roadmap",
-    "stargazers_count": 1746,
+    "stargazers_count": 1754,
     "open_issues_count": 2,
     "forks_count": 130
   },
@@ -37,13 +37,13 @@
   },
   {
     "full_name": "stackblitz/webcontainer-docs",
-    "stargazers_count": 98,
+    "stargazers_count": 99,
     "open_issues_count": 19,
     "forks_count": 35
   },
   {
     "full_name": "stackblitz/tutorialkit",
-    "stargazers_count": 578,
+    "stargazers_count": 585,
     "open_issues_count": 52,
     "forks_count": 66
   },
@@ -104,7 +104,7 @@
   {
     "full_name": "surrealdb/surrealdb",
     "stargazers_count": 28586,
-    "open_issues_count": 715,
+    "open_issues_count": 710,
     "forks_count": 945
   },
   {
@@ -123,7 +123,7 @@
     "full_name": "ayush714/customer-satisfaction-mlops",
     "stargazers_count": 135,
     "open_issues_count": 4,
-    "forks_count": 81
+    "forks_count": 83
   },
   {
     "full_name": "firtman/capabilities",
@@ -139,7 +139,7 @@
   },
   {
     "full_name": "WeMakeDevs/open-source-course",
-    "stargazers_count": 763,
+    "stargazers_count": 762,
     "open_issues_count": 2,
     "forks_count": 134
   },
@@ -157,14 +157,14 @@
   },
   {
     "full_name": "open-cli-tools/concurrently",
-    "stargazers_count": 7215,
+    "stargazers_count": 7222,
     "open_issues_count": 68,
     "forks_count": 236
   },
   {
     "full_name": "CrowdDotDev/crowd.dev",
-    "stargazers_count": 3283,
-    "open_issues_count": 130,
+    "stargazers_count": 3287,
+    "open_issues_count": 128,
     "forks_count": 738
   },
   {
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "X1-Il/ToDo-app",
-    "stargazers_count": 59,
+    "stargazers_count": 58,
     "open_issues_count": 0,
     "forks_count": 16
   }
