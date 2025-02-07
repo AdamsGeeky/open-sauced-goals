@@ -1,9 +1,15 @@
 [
   {
+    "full_name": "deadmanoz/boss-2025-playground",
+    "stargazers_count": 3,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "avgupta456/github-trends",
-    "stargazers_count": 15906,
+    "stargazers_count": 15909,
     "open_issues_count": 46,
-    "forks_count": 108
+    "forks_count": 106
   },
   {
     "full_name": "mkassm/designing-data-intensive-applications-notes",
@@ -13,19 +19,19 @@
   },
   {
     "full_name": "smartcontractkit/chainlink",
-    "stargazers_count": 7162,
-    "open_issues_count": 221,
-    "forks_count": 1743
+    "stargazers_count": 7166,
+    "open_issues_count": 231,
+    "forks_count": 1745
   },
   {
     "full_name": "DexisApp/Dexis",
-    "stargazers_count": 336,
+    "stargazers_count": 335,
     "open_issues_count": 0,
     "forks_count": 115
   },
   {
     "full_name": "DevOpsHiveHQ/dynamic-devops-roadmap",
-    "stargazers_count": 1765,
+    "stargazers_count": 1774,
     "open_issues_count": 0,
     "forks_count": 130
   },
@@ -43,13 +49,13 @@
   },
   {
     "full_name": "stackblitz/tutorialkit",
-    "stargazers_count": 589,
-    "open_issues_count": 52,
+    "stargazers_count": 590,
+    "open_issues_count": 53,
     "forks_count": 66
   },
   {
     "full_name": "FrancescoXX/rustcrab",
-    "stargazers_count": 429,
+    "stargazers_count": 430,
     "open_issues_count": 24,
     "forks_count": 89
   },
@@ -103,7 +109,7 @@
   },
   {
     "full_name": "surrealdb/surrealdb",
-    "stargazers_count": 28601,
+    "stargazers_count": 28629,
     "open_issues_count": 715,
     "forks_count": 947
   },
@@ -115,15 +121,15 @@
   },
   {
     "full_name": "ayush714/data-science-roadmap",
-    "stargazers_count": 752,
+    "stargazers_count": 753,
     "open_issues_count": 6,
-    "forks_count": 139
+    "forks_count": 140
   },
   {
     "full_name": "ayush714/customer-satisfaction-mlops",
     "stargazers_count": 135,
     "open_issues_count": 4,
-    "forks_count": 83
+    "forks_count": 84
   },
   {
     "full_name": "firtman/capabilities",
@@ -157,14 +163,14 @@
   },
   {
     "full_name": "open-cli-tools/concurrently",
-    "stargazers_count": 7223,
-    "open_issues_count": 68,
+    "stargazers_count": 7226,
+    "open_issues_count": 69,
     "forks_count": 236
   },
   {
     "full_name": "CrowdDotDev/crowd.dev",
-    "stargazers_count": 3285,
-    "open_issues_count": 129,
+    "stargazers_count": 3286,
+    "open_issues_count": 131,
     "forks_count": 737
   },
   {
@@ -172,11 +178,5 @@
     "stargazers_count": 38,
     "open_issues_count": 0,
     "forks_count": 6
-  },
-  {
-    "full_name": "X1-Il/ToDo-app",
-    "stargazers_count": 58,
-    "open_issues_count": 0,
-    "forks_count": 16
   }
 ]
