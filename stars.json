@@ -1,7 +1,7 @@
 [
   {
     "full_name": "chambaz/solanaui",
-    "stargazers_count": 25,
+    "stargazers_count": 27,
     "open_issues_count": 0,
     "forks_count": 5
   },
@@ -13,7 +13,7 @@
   },
   {
     "full_name": "avgupta456/github-trends",
-    "stargazers_count": 16033,
+    "stargazers_count": 16035,
     "open_issues_count": 46,
     "forks_count": 108
   },
@@ -25,9 +25,9 @@
   },
   {
     "full_name": "smartcontractkit/chainlink",
-    "stargazers_count": 7265,
-    "open_issues_count": 279,
-    "forks_count": 1773
+    "stargazers_count": 7269,
+    "open_issues_count": 268,
+    "forks_count": 1771
   },
   {
     "full_name": "DexisApp/Dexis",
@@ -37,7 +37,7 @@
   },
   {
     "full_name": "DevOpsHiveHQ/dynamic-devops-roadmap",
-    "stargazers_count": 1900,
+    "stargazers_count": 1909,
     "open_issues_count": 0,
     "forks_count": 140
   },
@@ -49,19 +49,19 @@
   },
   {
     "full_name": "stackblitz/webcontainer-docs",
-    "stargazers_count": 109,
+    "stargazers_count": 110,
     "open_issues_count": 20,
-    "forks_count": 39
+    "forks_count": 40
   },
   {
     "full_name": "stackblitz/tutorialkit",
-    "stargazers_count": 639,
-    "open_issues_count": 52,
+    "stargazers_count": 640,
+    "open_issues_count": 54,
     "forks_count": 71
   },
   {
     "full_name": "FrancescoXX/rustcrab",
-    "stargazers_count": 437,
+    "stargazers_count": 438,
     "open_issues_count": 24,
     "forks_count": 91
   },
@@ -97,7 +97,7 @@
   },
   {
     "full_name": "Qala-Dev/course-materials",
-    "stargazers_count": 18,
+    "stargazers_count": 19,
     "open_issues_count": 1,
     "forks_count": 16
   },
@@ -115,8 +115,8 @@
   },
   {
     "full_name": "surrealdb/surrealdb",
-    "stargazers_count": 29055,
-    "open_issues_count": 795,
+    "stargazers_count": 29077,
+    "open_issues_count": 799,
     "forks_count": 979
   },
   {
@@ -127,7 +127,7 @@
   },
   {
     "full_name": "ayush714/data-science-roadmap",
-    "stargazers_count": 762,
+    "stargazers_count": 763,
     "open_issues_count": 6,
     "forks_count": 137
   },
@@ -151,7 +151,7 @@
   },
   {
     "full_name": "WeMakeDevs/open-source-course",
-    "stargazers_count": 754,
+    "stargazers_count": 753,
     "open_issues_count": 2,
     "forks_count": 133
   },
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "open-cli-tools/concurrently",
-    "stargazers_count": 7318,
-    "open_issues_count": 71,
+    "stargazers_count": 7320,
+    "open_issues_count": 72,
     "forks_count": 241
   },
   {
     "full_name": "CrowdDotDev/crowd.dev",
-    "stargazers_count": 3288,
-    "open_issues_count": 171,
+    "stargazers_count": 3286,
+    "open_issues_count": 169,
     "forks_count": 741
   }
 ]
