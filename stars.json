@@ -1,7 +1,13 @@
 [
   {
+    "full_name": "AdemolaSam/solana-todo",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "chambaz/solanaui",
-    "stargazers_count": 28,
+    "stargazers_count": 30,
     "open_issues_count": 0,
     "forks_count": 5
   },
@@ -13,7 +19,7 @@
   },
   {
     "full_name": "avgupta456/github-trends",
-    "stargazers_count": 16042,
+    "stargazers_count": 16055,
     "open_issues_count": 46,
     "forks_count": 108
   },
@@ -25,21 +31,21 @@
   },
   {
     "full_name": "smartcontractkit/chainlink",
-    "stargazers_count": 7275,
-    "open_issues_count": 286,
-    "forks_count": 1771
+    "stargazers_count": 7282,
+    "open_issues_count": 292,
+    "forks_count": 1770
   },
   {
     "full_name": "DexisApp/Dexis",
-    "stargazers_count": 324,
+    "stargazers_count": 320,
     "open_issues_count": 0,
     "forks_count": 103
   },
   {
     "full_name": "DevOpsHiveHQ/dynamic-devops-roadmap",
-    "stargazers_count": 1913,
+    "stargazers_count": 1920,
     "open_issues_count": 0,
-    "forks_count": 140
+    "forks_count": 141
   },
   {
     "full_name": "risc0/battleship-example",
@@ -50,18 +56,18 @@
   {
     "full_name": "stackblitz/webcontainer-docs",
     "stargazers_count": 110,
-    "open_issues_count": 20,
-    "forks_count": 40
+    "open_issues_count": 21,
+    "forks_count": 41
   },
   {
     "full_name": "stackblitz/tutorialkit",
-    "stargazers_count": 642,
+    "stargazers_count": 643,
     "open_issues_count": 54,
     "forks_count": 72
   },
   {
     "full_name": "FrancescoXX/rustcrab",
-    "stargazers_count": 439,
+    "stargazers_count": 440,
     "open_issues_count": 24,
     "forks_count": 91
   },
@@ -115,8 +121,8 @@
   },
   {
     "full_name": "surrealdb/surrealdb",
-    "stargazers_count": 29105,
-    "open_issues_count": 790,
+    "stargazers_count": 29129,
+    "open_issues_count": 793,
     "forks_count": 981
   },
   {
@@ -127,7 +133,7 @@
   },
   {
     "full_name": "ayush714/data-science-roadmap",
-    "stargazers_count": 763,
+    "stargazers_count": 764,
     "open_issues_count": 6,
     "forks_count": 137
   },
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "open-cli-tools/concurrently",
-    "stargazers_count": 7328,
-    "open_issues_count": 72,
+    "stargazers_count": 7330,
+    "open_issues_count": 70,
     "forks_count": 242
-  },
-  {
-    "full_name": "CrowdDotDev/crowd.dev",
-    "stargazers_count": 3287,
-    "open_issues_count": 169,
-    "forks_count": 741
   }
 ]
