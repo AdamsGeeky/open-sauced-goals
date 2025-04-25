@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "nnitiwe-dev/youtube-codelabs",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 2
+  },
+  {
+    "full_name": "InkEarn/pump-public-docs",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "AdemolaSam/solana-todo",
     "stargazers_count": 1,
     "open_issues_count": 0,
@@ -9,7 +21,7 @@
     "full_name": "chambaz/solanaui",
     "stargazers_count": 30,
     "open_issues_count": 0,
-    "forks_count": 5
+    "forks_count": 6
   },
   {
     "full_name": "deadmanoz/boss-2025-playground",
@@ -19,9 +31,9 @@
   },
   {
     "full_name": "avgupta456/github-trends",
-    "stargazers_count": 16055,
+    "stargazers_count": 16064,
     "open_issues_count": 46,
-    "forks_count": 108
+    "forks_count": 107
   },
   {
     "full_name": "mkassm/designing-data-intensive-applications-notes",
@@ -31,21 +43,21 @@
   },
   {
     "full_name": "smartcontractkit/chainlink",
-    "stargazers_count": 7282,
-    "open_issues_count": 292,
-    "forks_count": 1770
+    "stargazers_count": 7289,
+    "open_issues_count": 295,
+    "forks_count": 1769
   },
   {
     "full_name": "DexisApp/Dexis",
-    "stargazers_count": 320,
+    "stargazers_count": 318,
     "open_issues_count": 0,
     "forks_count": 103
   },
   {
     "full_name": "DevOpsHiveHQ/dynamic-devops-roadmap",
-    "stargazers_count": 1920,
+    "stargazers_count": 1934,
     "open_issues_count": 0,
-    "forks_count": 141
+    "forks_count": 142
   },
   {
     "full_name": "risc0/battleship-example",
@@ -61,9 +73,9 @@
   },
   {
     "full_name": "stackblitz/tutorialkit",
-    "stargazers_count": 643,
-    "open_issues_count": 54,
-    "forks_count": 72
+    "stargazers_count": 646,
+    "open_issues_count": 52,
+    "forks_count": 73
   },
   {
     "full_name": "FrancescoXX/rustcrab",
@@ -103,13 +115,13 @@
   },
   {
     "full_name": "Qala-Dev/course-materials",
-    "stargazers_count": 19,
+    "stargazers_count": 20,
     "open_issues_count": 1,
-    "forks_count": 16
+    "forks_count": 17
   },
   {
     "full_name": "dubesar/Ultimate-Java-Resources",
-    "stargazers_count": 317,
+    "stargazers_count": 318,
     "open_issues_count": 70,
     "forks_count": 294
   },
@@ -121,9 +133,9 @@
   },
   {
     "full_name": "surrealdb/surrealdb",
-    "stargazers_count": 29129,
-    "open_issues_count": 793,
-    "forks_count": 981
+    "stargazers_count": 29155,
+    "open_issues_count": 803,
+    "forks_count": 982
   },
   {
     "full_name": "AdamsGeeky/V1",
@@ -166,17 +178,5 @@
     "stargazers_count": 30,
     "open_issues_count": 1,
     "forks_count": 14
-  },
-  {
-    "full_name": "9jacoderYT/Login-SignUp-Form-using-Material-UI-with-Full-Validation",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 4
-  },
-  {
-    "full_name": "open-cli-tools/concurrently",
-    "stargazers_count": 7330,
-    "open_issues_count": 70,
-    "forks_count": 242
   }
 ]
