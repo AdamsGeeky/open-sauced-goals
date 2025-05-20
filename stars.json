@@ -37,9 +37,9 @@
   },
   {
     "full_name": "avgupta456/github-trends",
-    "stargazers_count": 16085,
+    "stargazers_count": 16086,
     "open_issues_count": 46,
-    "forks_count": 108
+    "forks_count": 109
   },
   {
     "full_name": "mkassm/designing-data-intensive-applications-notes",
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "smartcontractkit/chainlink",
-    "stargazers_count": 7306,
-    "open_issues_count": 269,
-    "forks_count": 1776
+    "stargazers_count": 7312,
+    "open_issues_count": 263,
+    "forks_count": 1778
   },
   {
     "full_name": "DexisApp/Dexis",
@@ -61,7 +61,7 @@
   },
   {
     "full_name": "DevOpsHiveHQ/dynamic-devops-roadmap",
-    "stargazers_count": 1998,
+    "stargazers_count": 2004,
     "open_issues_count": 0,
     "forks_count": 146
   },
@@ -79,15 +79,9 @@
   },
   {
     "full_name": "stackblitz/tutorialkit",
-    "stargazers_count": 651,
+    "stargazers_count": 652,
     "open_issues_count": 52,
     "forks_count": 82
-  },
-  {
-    "full_name": "FrancescoXX/rustcrab",
-    "stargazers_count": 442,
-    "open_issues_count": 22,
-    "forks_count": 90
   },
   {
     "full_name": "David-Lazaro-Fernandez/GHW-NEXT_VOTING_APP",
@@ -121,7 +115,7 @@
   },
   {
     "full_name": "Qala-Dev/course-materials",
-    "stargazers_count": 21,
+    "stargazers_count": 22,
     "open_issues_count": 1,
     "forks_count": 17
   },
@@ -134,14 +128,14 @@
   {
     "full_name": "sxin0/docsify-termynal",
     "stargazers_count": 6,
-    "open_issues_count": 0,
-    "forks_count": 1
+    "open_issues_count": 2,
+    "forks_count": 2
   },
   {
     "full_name": "surrealdb/surrealdb",
-    "stargazers_count": 29237,
-    "open_issues_count": 715,
-    "forks_count": 984
+    "stargazers_count": 29253,
+    "open_issues_count": 709,
+    "forks_count": 986
   },
   {
     "full_name": "AdamsGeeky/V1",
@@ -151,7 +145,7 @@
   },
   {
     "full_name": "ayush714/data-science-roadmap",
-    "stargazers_count": 766,
+    "stargazers_count": 767,
     "open_issues_count": 6,
     "forks_count": 136
   },
@@ -178,5 +172,11 @@
     "stargazers_count": 751,
     "open_issues_count": 2,
     "forks_count": 133
+  },
+  {
+    "full_name": "kaiwalyakoparkar/quora-for-college",
+    "stargazers_count": 30,
+    "open_issues_count": 1,
+    "forks_count": 14
   }
 ]
