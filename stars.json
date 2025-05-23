@@ -37,7 +37,7 @@
   },
   {
     "full_name": "avgupta456/github-trends",
-    "stargazers_count": 16086,
+    "stargazers_count": 16092,
     "open_issues_count": 46,
     "forks_count": 109
   },
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "smartcontractkit/chainlink",
-    "stargazers_count": 7312,
-    "open_issues_count": 263,
-    "forks_count": 1778
+    "stargazers_count": 7317,
+    "open_issues_count": 260,
+    "forks_count": 1779
   },
   {
     "full_name": "DexisApp/Dexis",
@@ -61,9 +61,9 @@
   },
   {
     "full_name": "DevOpsHiveHQ/dynamic-devops-roadmap",
-    "stargazers_count": 2004,
+    "stargazers_count": 2009,
     "open_issues_count": 0,
-    "forks_count": 146
+    "forks_count": 147
   },
   {
     "full_name": "risc0/battleship-example",
@@ -79,9 +79,15 @@
   },
   {
     "full_name": "stackblitz/tutorialkit",
-    "stargazers_count": 652,
+    "stargazers_count": 653,
     "open_issues_count": 52,
-    "forks_count": 82
+    "forks_count": 83
+  },
+  {
+    "full_name": "FrancescoXX/rustcrab",
+    "stargazers_count": 442,
+    "open_issues_count": 22,
+    "forks_count": 90
   },
   {
     "full_name": "David-Lazaro-Fernandez/GHW-NEXT_VOTING_APP",
@@ -133,9 +139,9 @@
   },
   {
     "full_name": "surrealdb/surrealdb",
-    "stargazers_count": 29253,
-    "open_issues_count": 709,
-    "forks_count": 986
+    "stargazers_count": 29279,
+    "open_issues_count": 705,
+    "forks_count": 987
   },
   {
     "full_name": "AdamsGeeky/V1",
@@ -172,11 +178,5 @@
     "stargazers_count": 751,
     "open_issues_count": 2,
     "forks_count": 133
-  },
-  {
-    "full_name": "kaiwalyakoparkar/quora-for-college",
-    "stargazers_count": 30,
-    "open_issues_count": 1,
-    "forks_count": 14
   }
 ]
